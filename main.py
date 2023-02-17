@@ -10,6 +10,7 @@ def print_hi(name):
     print('Second commit')
     print('third commit second stash occurence')
     print('This commit on local does not have the force-with-least text file)
+          print('git push --force with lease after adding a branch on remote repo')
 
 
 # Press the green button in the gutter to run the script.
