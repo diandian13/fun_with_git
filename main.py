@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
     print('Second commit')
     print('third commit second stash occurence')
+    print('This commit on local does not have the force-with-least text file)
 
 
 # Press the green button in the gutter to run the script.
